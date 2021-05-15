@@ -27,7 +27,7 @@ The Dataset provides Audio Features (metrics) of ~600k tracks released between 1
 
 Renamed Datasets on local machine:  
 data_o.csv --> data.csv  
-tracks.csv --> spotify_tracks  
+tracks.csv --> spotify_tracks.csv   
 *data_by_year_o.csv was not renamed*
 
 What we plan to do is use a combination of all three datasets to generate song/artist recommendations based on what a customer is in the mood for. We will also perform some analytics on the 3 datasets. 
