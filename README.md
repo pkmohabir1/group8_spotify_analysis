@@ -40,7 +40,7 @@ The analytics components provides in depth analysis based on many different musi
 - Features/Metric histograms
 - Poplarity Dirbibution by Density 
 - Scatterplots for correlations of all data metrics
-- Popularity vs Unpoplarity charts
+- Popularity vs Unpopularity charts
 - Kernal Density Estimatmation plot (KDE) to visualize each metric
 - Top Ten tracks based on "cumulative" popularity value
 - Top ten tracks based on popularity value
