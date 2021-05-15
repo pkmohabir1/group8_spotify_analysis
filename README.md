@@ -25,9 +25,9 @@ The Dataset provides Audio Features (metrics) of ~600k tracks released between 1
 - The data_by_year_o.csv file aggregates all of the song data for a calendar year and provides composite scores for songs from that year. 
 - The tracks.csv dataset is a simple list of tracks that also provides the artist on the track, durations, release date and a few metrics(Dancibility and Energy)
 
-###### Renamed Datasets on local machine:
-data_o.csv --> data.csv
-tracks.csv --> spotify_tracks
+Renamed Datasets on local machine:
+data_o.csv --> data.csv  
+tracks.csv --> spotify_tracks  
 *data_by_year_o.csv was not renamed*
 
 What we plan to do is use a combination of all three datasets to generate song/artist recommendations based on what a customer is in the mood for. We will also perform some analytics on the 3 datasets. 
