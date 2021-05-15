@@ -141,7 +141,7 @@ Please select an options:[1],[2] or [3]:
 # Conclusion 
 We hope that our Jupyter Notebook provides music listeners and music industry professionals/enterprises, a better insight of the music industry and possibly what future music will be.
 
-Link to our final Presentation - [HERE](https://accounts.google.com/signin/v2/identifier?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1pVMnqHtXWboAvLLo_tDosMDX8mqFd_1cT2F9XOrk9Ok%2Fedit&followup=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1pVMnqHtXWboAvLLo_tDosMDX8mqFd_1cT2F9XOrk9Ok%2Fedit&ltmpl=slides&flowName=GlifWebSignIn&flowEntry=ServiceLogin#slide=id.gd88be14239_0_12)
+Link to our final Presentation - [HERE](https://docs.google.com/presentation/d/1pVMnqHtXWboAvLLo_tDosMDX8mqFd_1cT2F9XOrk9Ok/edit#slide=id.gd88be14239_0_12)
 
 
 
