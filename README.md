@@ -13,7 +13,7 @@
 
 # SCOPE  
 - The System will contain function definitions
-- The System will be a informational/ineractive Jupyter Notebook
+- The System will be a informational/interactive Jupyter Notebook
 - The System will Import (Pandas, numpy, matplotlib, seaborn, functools) python Libraries
 - The System will provide the user with 13 data visulizations
 - The System will support a simple input/output interactive recommendation system 
