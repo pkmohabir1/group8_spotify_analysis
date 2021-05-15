@@ -23,7 +23,7 @@
 The Dataset provides Audio Features (metrics) of ~600k tracks released between 1922 and 2021  
 - The dataset, data_o.csv, is the full Spotify dataset with a total of 19 columns. It contains song data like artist, release year, popularity, and several different song metrics such as energy, liveness, and tempo. The datasets, data_by_artist.csv and data_by_year.csv, contain most of the same data but examined in different ways.
 - The data_by_year_o.csv file aggregates all of the song data for a calendar year and provides composite scores for songs from that year. 
-- The tracks.csv dataset is a simple list of tracks that also provides the artist on the track, durations, release date and audio featured (metrics)
+- The tracks.csv dataset is a simple list of tracks that also provides the artist on the track, durations, release date and audio features (metrics)
 
 ***PLEASE DOWNLOAD THE RENAMED DATASET HERE FOR CODE EXECUTION***:   
 data_o.csv --> [data.csv](https://drive.google.com/file/d/1vgBt77eW22wmwB_nvqo1xhaojxhJrye-/view?usp=sharing)  
