@@ -33,12 +33,12 @@ What we plan to do is use a combination of all three datasets to generate song/a
 The analytics components provides in depth analysis based on many different music metrics, year, and tracks: 
 - Acoustic Metric Vs. Energy Metric
 - Average Key through the years with linear regression 
-- Valence track( Musical Positiventess conveyed by track)
+- Valence track (Musical Positiveness conveyed by track)
 - Spotify Five Year Track Average Valence by year 2016-2020/Covid Impact
 - 2020 Valence for Top 100 track
 - Correlation heat map for all data metrics
 - Features/Metric histograms
-- Poplarity Dirbibution by Density 
+- Popularity Distribution by Density 
 - Scatterplots for correlations of all data metrics
 - Popularity vs Unpopularity charts
 - Kernal Density Estimatmation plot (KDE) to visualize each metric
