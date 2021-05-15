@@ -7,7 +7,7 @@
 
 ***Problem Statement***: There is a lack of in-depth analysis on the music industry overtime that does not provide accurate analysis to the public and music recommendations based on specific music metrics (audio features).  
  
-***Mission Statement***: Approaching the project as though we’re analysts at Spotify, we are utilizing a reliable Spotify datasets to enhance in-depth music analytics such as, looking  for correlations, reveal trends/patterns about the music industry, and providing very vivid data visulizations. As well as providing a new recommendation system for new artists. We will do this by creating an interactive Jupyter Notebook that will have a Spotify Analysis Section and a user interactive Recommendation System.  
+***Mission Statement***: Approaching the project as though we’re analysts at Spotify, we are utilizing a reliable Spotify dataset to enhance in-depth music analytics such as, looking  for correlations, reveal trends/patterns about the music industry, and providing very vivid data visulizations. As well as providing a new recommendation system for new artists. We will do this by creating an interactive Jupyter Notebook that will have a Spotify Analysis Section and a user interactive Recommendation System.  
 
 ***Goal Statement***: The goal for this project is to give music industry professionals and enthusiast valuable data visualizations that convey trends/patterns in the music indusrty overtime. This allows the user to understand which songs can be better in a specific setting and provide users an accurate new artist recommendation list. This will also help increase traffic for music streaming platforms. 
 
