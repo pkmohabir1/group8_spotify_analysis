@@ -21,9 +21,14 @@
 # Project Datasets  
 [Spotify Dataset Link Here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv)
 The Dataset provides Audio Features (metrics) of ~600k tracks released between 1922 and 2021  
-- The dataset, data.csv, is the full Spotify dataset with a total of 19 columns. It contains song data like artist, release year, popularity, and several different song metrics such as energy, liveness, and tempo. The datasets, data_by_artist.csv and data_by_year.csv, contain most of the same data but examined in different ways.
-- The data_by_year.csv file aggregates all of the song data for a calendar year and provides composite scores for songs from that year. 
-- The track.csv dataset is a simple list of tracks that also provides the artist on the track, durations, release date and a few metrics(Dancibility and Energy)
+- The dataset, data_o.csv, is the full Spotify dataset with a total of 19 columns. It contains song data like artist, release year, popularity, and several different song metrics such as energy, liveness, and tempo. The datasets, data_by_artist.csv and data_by_year.csv, contain most of the same data but examined in different ways.
+- The data_by_year_o.csv file aggregates all of the song data for a calendar year and provides composite scores for songs from that year. 
+- The tracks.csv dataset is a simple list of tracks that also provides the artist on the track, durations, release date and a few metrics(Dancibility and Energy)
+
+###### Renamed Datasets on local machine:
+data_o.csv --> data.csv
+tracks.csv --> spotify_tracks
+*data_by_year_o.csv was not renamed*
 
 What we plan to do is use a combination of all three datasets to generate song/artist recommendations based on what a customer is in the mood for. We will also perform some analytics on the 3 datasets. 
 
