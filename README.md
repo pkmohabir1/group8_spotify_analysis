@@ -5,7 +5,7 @@
 
 # Introduction  
 
-***Problem Statement***: There is a lack of in-depth analysis on the music industry overtime that does not provide accurate analysis to the public and music recommendations based on specific music metrics.  
+***Problem Statement***: There is a lack of in-depth analysis on the music industry overtime that does not provide accurate analysis to the public and music recommendations based on specific music metrics (audio features).  
  
 ***Mission Statement***: Approaching the project as though we’re analysts at Spotify, we are utilizing a reliable Spotify datasets to enhance in-depth music analytics such as, looking  for correlations, reveal trends/patterns about the music industry, and providing very vivid data visulizations. As well as providing a new recommendation system for new artists. We will do this by creating an interactive Jupyter Notebook that will have a Spotify Analysis Section and a user interactive Recommendation System.  
 
